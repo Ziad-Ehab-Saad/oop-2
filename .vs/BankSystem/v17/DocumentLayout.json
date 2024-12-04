@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|d:\\eraasoft course .net\\lec-6\\fourth task\\banksystem\\banksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|d:\\eraasoft course .net\\lec-6\\fourth task\\banksystem\\banksystem\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|d:\\eraasoft course .net\\lec-6\\fourth task\\banksystem\\banksystem\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|d:\\eraasoft course .net\\lec-6\\fourth task\\banksystem\\banksystem\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F04493-5F85-4B39-9C94-72B0337E18D6}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Program.cs",
+              "ToolTip": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\Program.cs",
+              "RelativeToolTip": "BankSystem\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-12-02T20:54:19.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\CheckingAccount.cs",
+              "ToolTip": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\CheckingAccount.cs",
+              "RelativeToolTip": "BankSystem\\CheckingAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:38:50.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\TrustAccount.cs",
+              "ToolTip": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\TrustAccount.cs",
+              "RelativeToolTip": "BankSystem\\TrustAccount.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwEIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:14:16.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\SavingAccount.cs",
+              "ToolTip": "D:\\EraaSoft Course .NET\\lec-6\\Fourth Task\\BankSystem\\BankSystem\\SavingAccount.cs",
+              "RelativeToolTip": "BankSystem\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:25:04.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
